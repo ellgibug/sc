@@ -5,7 +5,7 @@ export const GlobalStyles = createGlobalStyle`
   * {
     font-family: 'Poppins';
     box-sizing: border-box;
-    margin: 0;
+    margin: 2px;
     padding: 0;
   }
 `;
